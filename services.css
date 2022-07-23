@@ -1,0 +1,17 @@
+body{
+
+ animation-name: bodi;
+
+ animation-duration: 20s;
+
+ animation-iteration-count: infinite;
+
+ }
+ @keyframes bodi{
+
+0% {background-color:#FAEBD7;}
+25% {background-color:#00FFFF;}
+50% {background-color:#7FFFD4;}
+75% {background-color:#F0FFF0;}
+100% {background-color:#FFE4E1;}
+ }
